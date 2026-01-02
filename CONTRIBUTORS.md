@@ -40,7 +40,7 @@ The following individuals have significantly contributed to the development and 
 
 ## 🎨 **Frontend & UI/UX**
 
-### **Dhruv** — *Frontend Developer*
+### **Akshar** — *Frontend Developer*
 
 * Developed frontend components and UI logic
 * Managed API integration and state handling
